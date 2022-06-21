@@ -1,5 +1,6 @@
 Projeto construído com base no vídeo: https://www.youtube.com/watch?v=LXRU-Z36GEU 
-Spring Framework
+<br>
+*Spring Framework*
 
 Data Accses - Transações com banco de dados
 Web - permite criar aplicações web
